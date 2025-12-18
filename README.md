@@ -86,3 +86,13 @@ This logic helps identify employees with sustained dissatisfaction patterns.
 ---
 
 ## Repository Structure
+Employee-Sentiment-Analysis/
+├── data/
+│ └── test.csv
+├── notebooks/
+│ └── employee_sentiment_analysis.ipynb
+├── visualizations/
+├── README.md
+
+## Author
+**Harshita S. Shende**
